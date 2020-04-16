@@ -5,3 +5,4 @@ local/
 include/
 share/
 lib/
+*pyc
