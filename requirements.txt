@@ -3,7 +3,7 @@ cachetools==3.1.1
 certifi==2020.4.5.1
 chardet==3.0.4
 decorator==4.4.2
-Django==1.11.29
+Django==2.2.24
 enum34==1.1.10
 futures==3.3.0
 google-api-core==1.17.0
